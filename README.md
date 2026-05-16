@@ -104,7 +104,8 @@ This public repository contains selected visual demonstrations, concepts, and wo
 # Author
 
 Dr Francisco Tovar  
-Biomedical Engineering • CFD • Microfluidics • Translational Systems Engineering
+Biomedical Engineering • CFD • Microfluidics • Translational Systems Engineering • Instrumentation
+
 Adjunct Senior Research Fellow. Department of Diabetes, School of Translational Medicine, Faculty of Medicine Nursing and Health Sciences. Monash University.
 
 RMIT University — Melbourne, Australia
