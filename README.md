@@ -39,7 +39,7 @@ within a unified engineering workflow.
 
 # Why COATL?
 
-*Coatl* means *serpent* in Náhuatl.
+*Coatl* means *serpent* in Náhuatl, an Indigenous language of Mexico.
 
 The name emerged naturally from the geometry of microfluidic systems themselves:
 most channels evolve into serpentine, spiral, adaptive flow paths.
