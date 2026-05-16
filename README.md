@@ -79,6 +79,13 @@ COATL reflects both:
 ```text
 PHIDL → GDS → STL → Mesh → CFD → Fabrication → Device
 ```
+# use
+
+```python -m components.channel.cell ```
+
+```python3 -m designs.designMosaic```
+
+```python3 -m components.inlet_outlet.cell```
 
 ---
 
@@ -105,8 +112,7 @@ This public repository contains selected visual demonstrations, concepts, and wo
 
 Dr Francisco Tovar  
 Biomedical Engineering • CFD • Microfluidics • Translational Systems Engineering • Instrumentation
+RMIT University — Melbourne, Australia
 
 Adjunct Senior Research Fellow. Department of Diabetes, School of Translational Medicine, Faculty of Medicine Nursing and Health Sciences. Monash University.
 
-RMIT University — Melbourne, Australia
-Senior
