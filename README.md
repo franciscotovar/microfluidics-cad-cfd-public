@@ -110,16 +110,3 @@ Adjunct Senior Research Fellow. Department of Diabetes, School of Translational 
 
 RMIT University — Melbourne, Australia
 Senior
-
-
-# Author
-
-Dr Francisco Tovar  
-Biomedical Engineering • CFD • Microfluidics • Translational Systems Engineering  
-RMIT University, Melbourne, Australia  
-
-Adjunct Senior Research Fellow  
-Department of Diabetes  
-School of Translational Medicine  
-Faculty of Medicine, Nursing and Health Sciences  
-Monash University
